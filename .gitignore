@@ -1,0 +1,17 @@
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+# Environment
+.env
+.env.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# Generated worker file (copied by postinstall script)
+/public/pdf.worker.min.mjs
