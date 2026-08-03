@@ -1,6 +1,8 @@
 
 # AI Resume Analyzer
 
+**Live Demo:** [https://ai-resume-analyzer-zeta-taupe.vercel.app/](https://ai-resume-analyzer-zeta-taupe.vercel.app/)
+
 A small React + Vite application that analyzes resumes (PDF) and provides an ATS-style score, summary, and visual feedback to help improve resumes.
 
 ## Features
