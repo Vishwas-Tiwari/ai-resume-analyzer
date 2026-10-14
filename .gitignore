@@ -15,3 +15,6 @@
 
 # Generated worker file (copied by postinstall script)
 /public/pdf.worker.min.mjs
+
+# Test / scratch files
+dummy_resume.pdf
